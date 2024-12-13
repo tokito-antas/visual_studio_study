@@ -83,6 +83,7 @@
             CalcButton.TabIndex = 5;
             CalcButton.Text = "計算する";
             CalcButton.UseVisualStyleBackColor = true;
+            CalcButton.Click += CalcButton_Click;
             // 
             // Form1
             // 
